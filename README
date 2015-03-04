@@ -43,7 +43,7 @@ Experimental support for ST cortex M4:
     stm32f4_B          stm32f4_C          stm32f4_E          stm32f4_G
 
 
-Simple install procedure for Unix/Linux/MAC
+Simple install procedure for Unix/Linux/Mac OS X
 ===========================================
 
   % tar -xzf dfu-programmer-<version>.tar.gz    # unpack the sources
